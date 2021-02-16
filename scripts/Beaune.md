@@ -1,0 +1,1 @@
+---parent: Côte-d'Orhas_children: truetitle: Beaune

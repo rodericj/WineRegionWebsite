@@ -1,0 +1,1 @@
+---parent: Beaunehas_children: falsetitle: Vosne-Romanée
