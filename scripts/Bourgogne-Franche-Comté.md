@@ -1,1 +1,0 @@
----parent: Metropolitan Francehas_children: truetitle: Bourgogne-Franche-Comté
